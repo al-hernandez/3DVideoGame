@@ -21,23 +21,13 @@ Game logic:
 
 <p align="center">
 Lobby: <br/>
-<img width="200" alt="AddingVehicle" src="https://github.com/al-hernandez/VehicleMaintenanceApp/assets/112843657/cfcf6757-7eb9-4a2e-9387-1f77bcbeec80">
+<img width="500" alt="Screenshot 2024-04-30 at 3 17 11 PM" src="https://github.com/al-hernandez/3DVideoGame/assets/112843657/81b1b462-d73d-4795-a3da-10a93f7ce6b3">
+<img width="500" alt="Screenshot 2024-04-30 at 3 16 40 PM" src="https://github.com/al-hernandez/3DVideoGame/assets/112843657/46a92fc8-1f9f-4bf4-8698-af7b29dd336b"> 
+<img width="500" alt="Screenshot 2024-04-30 at 3 09 19 PM" src="https://github.com/al-hernandez/3DVideoGame/assets/112843657/c746d671-c05a-4a68-a5f0-523e137d7b53">
 <br />
 <br />
 Game Scene:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Add Maintenance Record:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-List of Records:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Search for Records:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="500" alt="Screenshot 2024-04-30 at 3 11 57 PM" src="https://github.com/al-hernandez/3DVideoGame/assets/112843657/7882bc91-f682-44ea-bdd6-a3c0021f6fc7">
 <br />
 <br />
 </p>
