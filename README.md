@@ -1,8 +1,11 @@
 <h1>Laser Tag Simulator</h1>
 
 <h2>Description</h2>
-A Unity 3D video game that simulates a laser tag deathmatch where the first team to hit the score limit of 30 tags is the winner. Players can host a lobby or join one by proving the host's IP address.<br />
-Game logic:<br />
+
+A Unity 3D video game that simulates a laser tag deathmatch where the first team to hit the score limit of 30 tags is the winner. Players can host a lobby or join one by proving the host's IP address.
+<br />
+<br />
+Game logic:
 - players are respawned when their health is depleted
 - players on the same team cannot inflict damage on each other
 - players are equipped with 3 different classes of weapons
